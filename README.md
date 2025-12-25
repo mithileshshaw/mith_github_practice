@@ -2,11 +2,13 @@
 This is first github learning session and exploring command
 
 command:
-
 git --version
 
 git clone https:
 git status
+
+git config --global user.name "mithilesh shaw"
+git config --global user.email "mithiles9shaw@gmail.com"
 
 4 types of status :-
 1. untracked -- new file that git doesn't yet track
