@@ -25,14 +25,15 @@ ADD and Commit :-
         
 2. git commit -m "some message
         # commit - it is the record of change
-        
+
+ 3. git push origin main -- push the changes form GIT system to GIT Repository. Here origin is self decrlared or nick name to the repo we are using
+       
 
 PUSH :-
-git push origin main 
 
 
 INIT Command:
-git init
+git init -- to initialise this folder as a git repository
 git remote add orgin https://github.com/mithileshshaw/mith_github_practice_localrepo.git
 git remote -v
 git branch
