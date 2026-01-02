@@ -25,8 +25,9 @@ ADD and Commit :-
         
 2. git commit -m "some message
         # commit - it is the record of change
-
- 3. git push origin main -- push the changes form GIT system to GIT Repository. Here origin is self decrlared or nick name to the repo we are using
+ 
+PUSH :-
+3. git push origin main -- push the changes form GIT system to GIT Repository. Here origin is self decrlared or nick name to the repo we are using
        
 # From Local Repo to Github
 INIT Command:
